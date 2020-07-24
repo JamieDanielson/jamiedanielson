@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JamieDanielson/jamiedanielson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! I'm Jamie.
+
+I'm a software developer in the US.
+
+Feel free to take a look around!
+
+Also check out my [LinkedIn](https://www.linkedin.com/in/jamiedanielson/) and my [portfolio](https://jamiedanielson.github.io/portfolio/).
