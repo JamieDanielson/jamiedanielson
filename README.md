@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! I'm Jamie.
 
-I'm a web developer in the US.
+I'm a software developer in the US.
 
 Feel free to take a look around!
 
