@@ -19,4 +19,4 @@ I'm a software developer in the US.
 
 Feel free to take a look around!
 
-Also check out my [LinkedIn](https://www.linkedin.com/in/jamiedanielson/) and my [portfolio](https://jamiedanielson.github.io/portfolio/).
+Also check out my [LinkedIn](https://www.linkedin.com/in/jamiedanielson/) and my [portfolio](https://jamiedanielson.github.io/).
